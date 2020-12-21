@@ -17,22 +17,22 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="poems.html">Poems</a>
+                <a class="nav-link active" aria-current="page" href="poems.php">Poems</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="poets.html">Poets</a>
+                <a class="nav-link active" aria-current="page" href="poets.php">Poets</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="collection.html">Collection</a>
+                <a class="nav-link active" aria-current="page" href="collection.php">Collection</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="sign.html">Sign In</a>
+                <a class="nav-link active" aria-current="page" href="sign.php">Sign In</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="about.html">About Us</a>
+                <a class="nav-link active" aria-current="page" href="about.php">About Us</a>
               </li>
     
             </ul>
